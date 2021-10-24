@@ -25,4 +25,5 @@ def main():
     print(part1(data));
     print(part2(data));
 
-main();
+if __name__ == "__main__":
+    main()
